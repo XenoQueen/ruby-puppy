@@ -15,5 +15,6 @@ class Dog
     @@all = []
   end
   
-  def 
+  def self.print_all
+    print_all.each do |
 end    
